@@ -1,0 +1,20 @@
+{
+  "files_sha256_verified": 12,
+  "firms_with_independent_t0_formula_checks": 47,
+  "cached_excel_error_cells": 0,
+  "cached_values_only_not_full_recalculation": true,
+  "old_uw_t0": 421.5828475368717,
+  "new_uw_t0": -456.79661734136096,
+  "delta_uw_t0": -878.379464878233,
+  "minimum_cumulative_npv": [
+    11,
+    -6445.931620345377
+  ],
+  "first_positive_cumulative_npv_year": 25,
+  "npv_t35": 25646.196894354773,
+  "known_issues": [
+    "Presentation and workbook values differ",
+    "Formula regime changes at t=31",
+    "Full event-study re-execution requires external market data"
+  ]
+}

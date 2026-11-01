@@ -1,0 +1,97 @@
+[
+  {
+    "path": "data/inputs/physical_risk_source.xlsx",
+    "original_name": "물리적리스크_기초자료.xlsx",
+    "source": "https://app.notion.com/ffe73f9e2ee28328abde012fae627ab7",
+    "meeting": "3차시",
+    "sha256": "073d4a18a5749d58ce8bd18776c53599b2eac3c3293b14d53bf86b3f27c005d6",
+    "bytes": 288723
+  },
+  {
+    "path": "data/inputs/physical_risk_factors.xlsx",
+    "original_name": "물리적리스크_할인할증.xlsx",
+    "source": "https://app.notion.com/43f73f9e2ee2830387d481a7a51d126f",
+    "meeting": "4차시",
+    "sha256": "e575574ec8eb393cc56ccf0571cabb5283a1e85673b48967710398b48b744424",
+    "bytes": 44759
+  },
+  {
+    "path": "data/inputs/physical_risk_growth.xlsx",
+    "original_name": "물리적리스크_PRF_세부증가율_매핑.xlsx",
+    "source": "https://app.notion.com/ed973f9e2ee28314a9540140bf240ba7",
+    "meeting": "6차시",
+    "sha256": "d939afa6ffcebc3f155665a871c141e9bf7ff176dffc7f0109a0c7ce100b38f9",
+    "bytes": 60927
+  },
+  {
+    "path": "data/inputs/model_0517.xlsx",
+    "original_name": "학술제시트_517.xlsx",
+    "source": "https://app.notion.com/ed973f9e2ee28314a9540140bf240ba7",
+    "meeting": "6차시",
+    "sha256": "5ce4fc635173bc48836790dd2acf0a6107eec1702e96ca8e665caa8170b0da24",
+    "bytes": 948686
+  },
+  {
+    "path": "notebooks/01_physical_risk.ipynb",
+    "original_name": "물리적리스크_PRF_세부증가율매핑.ipynb",
+    "source": "https://app.notion.com/3df73f9e2ee28362a6ad018c2fc0705e",
+    "meeting": "7차시",
+    "sha256": "c565c53b2fa5083b0ee031f28cc317f603645cbc6b8698d4c305823ecb29ad24",
+    "bytes": 73696
+  },
+  {
+    "path": "data/processed/physical_risk_annual.xlsx",
+    "original_name": "물리적리스크_PRF_연도별_매핑.xlsx",
+    "source": "https://app.notion.com/3df73f9e2ee28362a6ad018c2fc0705e",
+    "meeting": "7차시",
+    "sha256": "e28964cc447550e61876b2f6ad52536072108c911e563a90589e06adb7a718c0",
+    "bytes": 903459
+  },
+  {
+    "path": "data/processed/decarbonization_curves.xlsx",
+    "original_name": "g_decarb_S_curve_결과.xlsx",
+    "source": "https://app.notion.com/3df73f9e2ee28362a6ad018c2fc0705e",
+    "meeting": "7차시",
+    "sha256": "b9c697c4fbb5ef593ddacf6cbba90b759b3ca96f3d9a133179f281e9c8f7c258",
+    "bytes": 55308
+  },
+  {
+    "path": "notebooks/02_decarbonization.ipynb",
+    "original_name": "g_decarb_S_curve_산출.ipynb",
+    "source": "https://app.notion.com/3df73f9e2ee28362a6ad018c2fc0705e",
+    "meeting": "7차시",
+    "sha256": "a88fdbfed785031908fc92f18e95b7ec27fdd0b6a2496fcbf81c1c99ed9c4ff6",
+    "bytes": 483022
+  },
+  {
+    "path": "models/insurance_model.xlsx",
+    "original_name": "학술제시트_520_아마최종.xlsx",
+    "source": "https://app.notion.com/3df73f9e2ee28362a6ad018c2fc0705e",
+    "meeting": "7차시",
+    "sha256": "e21255a66e60b7cc5c85b082e9aa46979711a5ec95ce2117e23b0c17ade3350a",
+    "bytes": 1043024
+  },
+  {
+    "path": "notebooks/03_event_study.ipynb",
+    "original_name": "V2_백테스트_최종_(1).ipynb",
+    "source": "https://app.notion.com/3df73f9e2ee28362a6ad018c2fc0705e",
+    "meeting": "7차시",
+    "sha256": "19c0dd6c3874e4ef5b3f13fbf5d0acc8b597ba09163d2598119b0e59de70accc",
+    "bytes": 521545
+  },
+  {
+    "path": "data/inputs/v2_backtest_data.csv",
+    "original_name": "v2_backtest_data.csv",
+    "source": "https://app.notion.com/3df73f9e2ee28362a6ad018c2fc0705e",
+    "meeting": "7차시",
+    "sha256": "389363d479331d37e8ff139082d1a44625e6991231004ad29da6d718630d9a28",
+    "bytes": 656219
+  },
+  {
+    "path": "presentation/final_presentation.pdf",
+    "original_name": "2026_1_학술제_DartB손해보험.pdf",
+    "source": "사용자 제공 최종 발표자료 (PDF, 55쪽)",
+    "sha256": "431461fa0d61c76e9eeaf4270854fd700361fb369ffedc027a29a6d1539442e1",
+    "bytes": 37151861
+  }
+]
